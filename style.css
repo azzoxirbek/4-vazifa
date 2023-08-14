@@ -1,0 +1,269 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.contanier{
+    width: 85%;
+    height: auto;
+    margin: auto;
+    background: #000;
+}
+.contanier h1{
+    color: white;
+    text-align: center;
+    margin-top: 120px;
+    font-size: 50px;
+    padding-left: 15px;
+}
+.box{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-left: 10px;
+    margin-top: 50px;   
+}
+.box img{
+    width: 220px;
+    height: 200px;
+   margin-left: 30px;
+   margin-top: 30px;
+}
+.box h2{
+    text-align: center;
+}
+.box h3{
+text-align: center;
+width: 250px;
+margin-left: 15px;
+margin-top: 5px
+}
+.box p{
+    text-align: center;
+    margin-top: 5px;
+    color: chocolate;
+}
+.main{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-left: 430px;
+    position: absolute;
+    margin-top: -370px;  
+}
+.main img{
+    width: 220px;
+    height: 200px;
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.main h2{
+   text-align: center;
+ margin-top: 230px;
+}
+.main h3{
+    text-align: center;
+    width: 220px;
+    margin-left: 30px;
+    margin-top: 5px;
+} 
+.main p{
+    text-align: center;
+    margin-top: 10px;
+    color: chocolate;
+} 
+.icons{
+    width: 280px;
+    height: 380px;
+    background-color: white;
+    position: absolute;
+    margin-left: 845px;
+    margin-top: -370px;
+} 
+.icons img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.icons h2{
+    text-align: center;
+}
+.icons h3{
+    width: 250px;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 2px;
+}
+.icons p{
+    text-align: center;
+    margin-top: 10px;
+    color: chocolate;
+}
+.dars{
+    width: 280px;
+    height: 380px;
+    background: #fff;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.dars img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.dars h2{
+    text-align: center;
+}
+.dars h3{
+    text-align: center;
+    width: 190px;
+    margin-left: 47px;
+}
+.dars p{
+    text-align: center;
+    color: chocolate;
+    margin-top: 5px;
+}
+.fan{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-top: -380px;
+    margin-left: 430px;   
+}
+.fan img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.fan h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.fan h3{
+    text-align: center;
+    width: 190px;
+    margin-left: 47px;
+    margin-top: 5px;
+}
+.fan p{
+    text-align: center;
+    color: chocolate;
+    margin-top: 5px;
+}
+.qalam{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-top: -370px;
+    margin-left: 845px;   
+}
+.qalam img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.qalam h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.qalam h3{
+    text-align: center;
+    width: 190px;
+    margin-left: 47px;
+    margin-top: 5px;
+}
+.qalam p{
+    text-align: center;
+    color: chocolate;
+    margin-top: 5px;
+}
+.kolor{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-top: 50px;
+    margin-left: 5px;   
+}
+.kolor img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.kolor h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.kolor h3{
+    text-align: center;
+    width: 190px;
+    margin-left: 47px;
+    margin-top: 5px;
+}
+.kolor p{
+    text-align: center;
+    color: chocolate;
+    margin-top: 5px;
+}
+.limon{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-top: -370px;
+    margin-left: 430px;   
+}
+.limon img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.limon h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.limon h3{
+    text-align: center;
+    width: 190px;
+    margin-left: 47px;
+    margin-top: 5px;
+}
+.limon p{
+    text-align: center;
+    color: chocolate;
+    margin-top: 5px;
+}
+.rang{
+    width: 280px;
+    height: 370px;
+    background: #fff;
+    margin-top: -370px;
+    margin-left: 845px;   
+}
+.rang img{
+    width: 220px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.rang h2{
+    text-align: center;
+    margin-top: 5px;
+}
+.rang h3{
+    text-align: center;
+    width: 190px;
+    margin-left: 47px;
+    margin-top: 5px;
+}
+.rang p{
+    text-align: center;
+    color: chocolate;
+    margin-top: 5px;
+}
